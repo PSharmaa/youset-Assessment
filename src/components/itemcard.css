@@ -1,0 +1,18 @@
+h5{
+    color: #5D5AFF;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.card{
+    border-radius: 20px;
+}
+.card:hover{
+    background-color: #5d5aff2c;
+    border: 2px solid #5D5AFF;
+    transition: all 500ms ease;
+}
+.btn{
+    text-align: center;
+}
